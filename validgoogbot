@@ -1,0 +1,30 @@
+begin 50 50
+	obstacle 2 2 ;
+	obstacle 3 4 ;
+	obstacle 2 6 ;
+	obstacle 2 8 ;
+	wall = 10 ;
+	j = 1 ;
+	do
+		obstacle wall j ;
+		add 1 to j ;
+	until j > 15 ;
+	barrier = 25 ;
+	k = 1 ; 
+	do
+		obstacle k barrier ;
+		add 2 to k ;
+	until k > 22 ;	
+	robot michael 1 1 ;
+	robot kelly 49 49 ;
+	robot po 25 25 ;
+	move michael east 2 ;
+	move michael south 2 ;
+	move michael west 1 ;
+	move michael south 2 ;
+	move michael east 1 ;
+	move michael south 4 ;
+	move kelly west 41 ;
+	move kelly north 40 ;
+	move po west 3 ;
+halt

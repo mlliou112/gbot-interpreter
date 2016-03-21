@@ -1,0 +1,3 @@
+begin 50 50
+  robot shr 20 31 ;
+  halt

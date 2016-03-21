@@ -1,0 +1,16 @@
+P'->P
+P->biiLh
+L->S;
+L->LS;
+S->rvTT
+S->oTT
+S->mvDT
+S->aTtv
+S->v=T
+S->dLuT>T
+T->v
+T->i
+D->n
+D->s
+D->e
+D->w

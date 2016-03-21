@@ -1,0 +1,11 @@
+TYPE  CH VALUE   INT VALUE 
+====  ========   ========= 
+i     3          3         
+i     2          2         
+i     1          1         
+i     0          0         
+v     bob        0         
+i     6          6         
+v     martin     0         
+i     5          5         
+i     4          4         

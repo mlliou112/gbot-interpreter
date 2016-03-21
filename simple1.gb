@@ -1,0 +1,10 @@
+begin 5 6
+obstacle 2 2 ;
+obstacle 4 3 ;
+robot bob 5 5 ;
+robot martin 0 0 ;
+move bob west 5 ;
+move bob north 4 ;
+move martin south 2 ;
+move martin east 2 ;
+halt
